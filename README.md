@@ -1,7 +1,7 @@
 # Optimasi-Penjadwalan-Kuliah-dengan-Algoritma-Genetika-Dasar-Kelompok-4
 # Optimasi Penjadwalan Kuliah dengan Algoritma Genetika (Tahap UTS)
 
-Sistem penjadwalan kuliah otomatis berbasis Algoritma Genetika (AG) dasar. Semua operator
+Sistem penjadwalan kuliah otomatis berbasis Algoritma Genetika (AG) dasar. Semua operator.
 (inisialisasi, seleksi, crossover, mutasi, elitisme) ditulis sendiri tanpa DEAP/PyGAD.
 
 ## Data
